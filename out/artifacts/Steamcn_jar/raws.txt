@@ -1,0 +1,9 @@
+{
+  "username": "",
+  "password": "",
+  "senderEmail": "",
+  "receiveEmail": "",
+   "qq": "",
+   "emailPassword": "",
+   "count":0
+}
