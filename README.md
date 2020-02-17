@@ -27,7 +27,7 @@
 
 	不知道怎么获取的可以点击[这里](https://jingyan.baidu.com/article/4b07be3cb2f74148b380f3e4.html "QQ邮箱授权码的获取")
 
-- 下载源码或release
+- 下载源码或[release]("https://github.com/jklujklu/SteamcnRoll/releases/tag/v1.0")并解压
 
 - 打开out\artifacts\Steamcn_jar目录下的raws.txt，填写相关信息
 
