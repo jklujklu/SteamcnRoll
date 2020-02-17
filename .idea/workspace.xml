@@ -186,7 +186,7 @@
       <workItem from="1581754337515" duration="10055000" />
       <workItem from="1581818267093" duration="1567000" />
       <workItem from="1581819992442" duration="5306000" />
-      <workItem from="1581904963090" duration="1718000" />
+      <workItem from="1581904963090" duration="5316000" />
     </task>
     <task id="LOCAL-00001" summary="v1.0 基本实现登录、获取验证码、进行抽奖、发送邮件">
       <created>1581905568024</created>
@@ -209,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581906454736</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="v1.0 基本实现登录、获取验证码、抽奖、发送邮件">
+      <created>1581906766216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581906766216</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +253,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="v1.0 基本实现登录、获取验证码、抽奖、发送邮件" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Notifications" timestamp="1581906855692">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1581906855692" />
     <state x="361" y="74" key="#Project_Structure" timestamp="1581645371854">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -278,10 +289,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="171" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1581823494794" />
-    <state x="344" y="12" key="CommitChangelistDialog2" timestamp="1581906451702">
+    <state x="344" y="12" key="CommitChangelistDialog2" timestamp="1581906761607">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="344" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581906451702" />
+    <state x="344" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581906761607" />
     <state width="466" height="466" key="DebuggerActiveHint" timestamp="1581757752015">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
