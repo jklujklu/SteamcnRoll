@@ -108,24 +108,29 @@ cookie: dz_2132_auth={auth};dz_2132_saltkey={key}
 
 ------------
 
-
-- ### 验证码获取接口
-
-	```
-	https://keylol.com/misc.php?mod=seccode
-	```
-
-	**PS: 验证码的获取同样需要添加上述header**
-
-
 - ### 每日抽奖
 
 
-	```
-	https://keylol.com/plugin.php?id=steamcn_lottery:view&lottery_id=41
-	```
+```
+https://keylol.com/plugin.php?id=steamcn_lottery:view&lottery_id=41
+```
 
-	**PS: 验证码的获取同样需要添加上述header**
+**PS: 验证码的获取同样需要添加上述header**
 
-	**PS2: 若当前可以抽奖，则可以在script标签内获取接口**
+**PS2: 若当前可以抽奖，则可以在script标签内获取接口**
+
+
+- ### 验证码获取接口
+
+```
+https://keylol.com/misc.php?mod=seccode
+```
+
+**PS: 验证码的获取无需添加cookie，但需要额外添加以下header**
+
+```
+//auth获取方法与上文一致
+referer: https://keylol.com/member.php?mod=logging&action=login&auth={auth}
+```
+
 
