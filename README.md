@@ -1,11 +1,11 @@
 # SteamcnRoll
 蒸汽动力自动抽奖，日常减3
 
-***使用时请先通过Steamcn.test.jar进行邮件的测试***
+***请确保你的电脑安装了java环境，使用时请先通过Steamcn.test.jar进行邮件的测试***
 
-***使用时请先通过Steamcn.test.jar进行邮件的测试***
+***请确保你的电脑安装了java环境，使用时请先通过Steamcn.test.jar进行邮件的测试***
 
-***使用时请先通过Steamcn.test.jar进行邮件的测试***
+***请确保你的电脑安装了java环境，使用时请先通过Steamcn.test.jar进行邮件的测试***
 
 ------------
 
