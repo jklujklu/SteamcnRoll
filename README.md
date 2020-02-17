@@ -117,9 +117,8 @@ cookie: dz_2132_auth={auth};dz_2132_saltkey={key}
 
 	**PS: 验证码的获取同样需要添加上述header**
 
-- ### 每日抽奖
 
-------------
+- ### 每日抽奖
 
 
 	```
@@ -130,4 +129,3 @@ cookie: dz_2132_auth={auth};dz_2132_saltkey={key}
 
 	**PS2: 若当前可以抽奖，则可以在script标签内获取接口**
 
-------------
